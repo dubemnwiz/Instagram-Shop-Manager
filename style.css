@@ -1,0 +1,16 @@
+.background {
+  -fx-background-image: url("./iggradient.jpg");
+  -fx-background-repeat: no-repeat;
+}
+.insert {
+  -fx-background-image: url("./icons8-add-641.png");
+  -fx-background-size: 100% 100%;
+}
+.update {
+  -fx-background-image: url("./icons8-update-64.png");
+  -fx-background-size: 100% 100%;
+}
+.delete {
+  -fx-background-image: url("./icons8-delete-91.png");
+  -fx-background-size: 100% 100%;
+}
